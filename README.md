@@ -1,1 +1,0 @@
-- This is a learning project through a Django tutorial video.
